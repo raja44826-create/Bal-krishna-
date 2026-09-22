@@ -1,0 +1,6 @@
+{
+  "name": "Island Survivor: Strange Beasts",
+  "description": "Survive stranded on a mysterious island. Scavenge resources in the dense jungle, craft deadly weapons and secure shelters, defend against mutating strange beasts, and survive escalating levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
